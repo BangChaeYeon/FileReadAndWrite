@@ -59,7 +59,6 @@
             this.statusStrip1.Size = new System.Drawing.Size(483, 32);
             this.statusStrip1.SizingGrip = false;
             this.statusStrip1.TabIndex = 0;
-            this.statusStrip1.Text = "3108 방채연";
             // 
             // tabMenu
             // 
